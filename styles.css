@@ -1,0 +1,26 @@
+html{
+    height: 1vh;
+}
+header .title{
+    text-align: center;
+}
+
+.maincontent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainline{
+    font-size: 4rem;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.secondaryline{
+    font-size: 1.5rem;
+    width: 100%;
+    /* font-weight: bold; */
+}
